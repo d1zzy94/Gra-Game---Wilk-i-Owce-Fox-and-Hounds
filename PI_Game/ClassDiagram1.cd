@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PI_Game.GameWindow">
+    <Position X="0.5" Y="6" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="PI_Game.GameWindow.para">
+        <TypeIdentifier>
+          <NewMemberFileName>GameWindow.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQIIthAEACAAAJBALACQQICSAIAICQhCENAAAChAABA=</HashCode>
+      <FileName>GameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PI_Game.Gracz">
+    <Position X="3.75" Y="13.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAABABAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Gracz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PI_Game.Konfiguracja">
+    <Position X="3.75" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Konfiguracja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PI_Game.Plansza">
+    <Position X="0.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABACAA=</HashCode>
+      <FileName>Plansza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PI_Game.Program">
+    <Position X="3.75" Y="15.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PI_Game.Ruchy">
+    <Position X="2.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAEIAACAAAAEAAAAIAAAAA=</HashCode>
+      <FileName>Ruchy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PI_Game.Tablica">
+    <Position X="1.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Tablica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PI_Game.Properties.Resources">
+    <Position X="3.75" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAJEAAAAQAAAAAAAAAgAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PI_Game.Properties.Settings">
+    <Position X="3.75" Y="9.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
